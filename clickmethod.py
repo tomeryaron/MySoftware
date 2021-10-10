@@ -1,2 +1,0 @@
-def click():
-  print("Click")
